@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1632471027 source:c:\desktop\parking management\parking management\header.c
+
+1633703123 source:c:\desktop\parking management\parking management\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"sandq.h"
+	"data.h"
+
+1632898387 source:c:\desktop\parking management\parking management\login.c
+	"main.h"
+	"login.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632909398 c:\desktop\parking management\parking management\main.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stddef.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"login.h"
+	"data.h"
+
+1632590068 c:\desktop\parking management\parking management\login.h
+	"main.h"
+
+1637739213 source:c:\desktop\parking management\parking management\data.c
+	<stdio.h>
+	"main.h"
+	"data.h"
+	"sandq.h"
+
+1632909292 c:\desktop\parking management\parking management\data.h
+	"main.h"
+	"sandq.h"
+
+1637745047 c:\desktop\parking management\parking management\sandq.h
+	"main.h"
+
+1632900850 source:c:\desktop\parking management\parking management\sandq.c
+	<time.h>
+	"main.h"
+	"sandq.h"
+
